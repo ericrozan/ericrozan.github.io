@@ -1,4 +1,3 @@
-# Eric Rozán
 <img src="./foto.png" width="180" align="right">
 Hi! I am Eric Rozán, a Ph.D. candidate in Physics at [Instituto Balseiro](https://www.ib.edu.ar/), Bariloche, Argentina. My research focuses on mathematical modelling of epidemic processes and infectious disease dynamics. My work combines ordinary differential equations, agent-based models, and complex network theory to study how contact structure, heterogeneity, and interventions shape the spread of epidemics. I am particularly interested in developing computational models and using simulations to understand and analyse epidemic dynamics.
 
